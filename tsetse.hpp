@@ -1,5 +1,5 @@
-#ifndef TEST_HPP
-#define TEST_HPP
+#ifndef TSETSE_HPP
+#define TSETSE_HPP
 
 #pragma once
 
@@ -89,4 +89,4 @@ int main() {
     return 0;
 }
 
-#endif // TEST_HPP
+#endif // TSETSE_HPP
