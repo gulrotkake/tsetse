@@ -1,13 +1,13 @@
 Tsetse
 ------
 
-Tsetse is a dead simple, single header, and fast to compile unit test framework. It was written so I can easily create unit
-tests without pulling in Boost.Unit or something equally large when all I want is something simple.
+Tsetse is a dead simple, single header, and fast to compile unit test framework for C++. I wrote it so I could easily
+create unit tests without pulling in Boost.Unit or something equally heavy.
 
 The functionality Tsetse has to offer is the following:
   * Process exit code based on success/failure
   * Summary of what/where something failed
-  * Simple macros to easily create and automagically run tests
+  * Simple macros to easily create and automatically run tests
   * Console colours
   * Less than 100 lines of code
   * MIT License
