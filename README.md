@@ -13,6 +13,7 @@ The functionality Tsetse has to offer is the following:
   * MIT License
 
 Example test (test_tsetse.cpp):
+
     #include <tsetse.hpp>
 
     TEST(not_ok) {
