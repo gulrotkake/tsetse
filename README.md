@@ -23,13 +23,16 @@ Example test (test_tsetse.cpp):
         CHECK(1 == 1);
     }
 
-Compiling::
+Compiling:
+
     g++ -I/path/to/tsetse test_tsetse.cpp -o test_tsetse
 
 Running:
+
     $ ./test_tsetse
 
 Output:
+
     Executing test not_ok... failed
     Executing test ok... ok
     Failures:
